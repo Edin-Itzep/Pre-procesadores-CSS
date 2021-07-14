@@ -1,0 +1,21 @@
+.encabezado--con-filtros h2 {
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 50px;
+  font-family: Fuente2;
+}
+.encabezado--con-filtros .filtros {
+  width: 250px;
+  height: 75px;
+  padding: 20px;
+  margin-left: auto;
+}
+.encabezado--con-filtros .filtros span {
+  text-transform: uppercase;
+  font-display: Fuente2;
+}
+.encabezado--con-filtros .filtros a {
+  margin-left: 20px;
+  font-size: 25px;
+}
